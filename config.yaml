@@ -1,0 +1,25 @@
+credentials:
+  usernames:
+    npeppes:
+      email: npeppes@cn.ntua.gr
+      name: Nikos Peppes
+      password: '$2b$12$upMV8zDTcrTcU4FlSg50W.7OSunJZk32Qv7mCRE8yK1sW4fWNZs/K'# To be replaced with hashed password
+    talexakis:
+      email: talexakis@cn.ntua.gr
+      name: Thodoris Alexakis
+      password: '$2b$12$vfFztyyow24KihWRt4zVk.nyUMwUJUyszdaVyUlAuFlGxwSbmcNCS' # To be replaced with hashed password
+    starlight_user1:
+      email: nikospps1@hotmail.com
+      name: Starlight User 1
+      password: '$2b$12$bm.tetoZmZWRufljsjl/IOlKHAdNLx4KjhTJBS4TSXr3blLt4DNCS' # To be replaced with hashed password
+    starlight_user2:
+      email: nikospps1@hotmail.com
+      name: Starlight User 2
+      password: '$2b$12$bm.tetoZmZWRufljsjl/IOlKHAdNLx4KjhTJBS4TSXr3blLt4DNCS' # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - nikospps1@gmail.com
